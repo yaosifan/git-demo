@@ -16,4 +16,4 @@ hello ws~  hello git!
 hello ws~  hello git!
 hello ws~  hello git!
 hello ws~  hello git!
-hello ws~  hello git!
+hello ws~  hello git! hot-fix test
