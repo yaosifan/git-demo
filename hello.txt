@@ -15,5 +15,5 @@ hello ws~  hello git!
 hello ws~  hello git!
 hello ws~  hello git!
 hello ws~  hello git!
-hello ws~  hello git!
+hello ws~  hello git! master test
 hello ws~  hello git!
